@@ -10,7 +10,7 @@ import os
 
 #from tqdm import tqdm
 
-#from helpers import *
+from helpers import *
 from model import *
 from generate import *
 
